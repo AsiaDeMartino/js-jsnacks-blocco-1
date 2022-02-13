@@ -13,6 +13,6 @@ for ( i = 0; i < numeroNumeri; i++ ) {
     numeriCubo.push(cubo);
 }
 
-console.log(numeriCubo)
+console.log(numeriCubo);
 alert(`il cubo dei tuoi numeri è ${numeriCubo}`);
 
