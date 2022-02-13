@@ -34,13 +34,13 @@ while ( numeri.length !== 5 ) {
 console.log(numeri); 
 
 let i = 0;
-let somma = 0
+let somma = 0;
 while(i !== 5){
-somma += numeri[i]
-i++
-console.log(somma)
+somma += numeri[i];
+i++;
+console.log(somma);
 }
 
-alert(`la somma è ${somma}`)
+alert(`la somma è ${somma}`);
 
 
