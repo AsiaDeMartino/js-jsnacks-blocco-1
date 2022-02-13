@@ -17,9 +17,9 @@ do {
 //Il software stampa prima la parola più corta, poi la parola più lunga.
 
 if (parola1.length > parola2.length) {
-    alert(` ${parola2} è più corta di ${parola1} `)
+    alert(` ${parola2} è più corta di ${parola1} `);
 } else if (parola2.length > parola1.length) {
-    alert(` ${parola1} è più corta di ${parola2}`)
+    alert(` ${parola1} è più corta di ${parola2}`);
 } else {
-    alert(`${parola1} e ${parola2} hanno la stessa lunghezza `)
+    alert(`${parola1} e ${parola2} hanno la stessa lunghezza `);
 }
